@@ -3,6 +3,7 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/react-vite-first-practice/',
+  // base: '/react-vite-first-practice/',
+  base: './',
   plugins: [react()],
 })
