@@ -44,7 +44,13 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
       
-      - name: Build website
+      - name: Lint (Oxlint)
+        run: pnpm lint
+      
+      - name: Test (Vitest)
+        run: pnpm test
+      
+      - name: Build website (Type-check & production build)
         run: pnpm build
       
       - name: Configure GitHub Pages
