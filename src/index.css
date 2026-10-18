@@ -1,0 +1,24 @@
+:root {
+	font-family             : system-ui, sans-serif;
+	font-synthesis          : none;
+	text-rendering          : optimizeLegibility;
+	-webkit-font-smoothing  : antialiased;
+	-moz-osx-font-smoothing : grayscale;
+	color-scheme            : light dark;
+}
+
+* {
+	box-sizing              : border-box;
+}
+
+body {
+	min-width               : 320px;
+	min-height              : 100vh;
+	margin                  : 0;
+}
+
+button, input {
+	/* font                    : inherit; */
+	font-family             :  "Georgia", "Palatino Linotype", "Palatino", "Times New Roman", "Noto Serif TC", "Songti TC", "serif";
+	letter-spacing          : 1px;
+}
