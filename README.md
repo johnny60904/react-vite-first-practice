@@ -8,7 +8,7 @@
 
 <!-- Quality Tools -->
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=5BFF77)](https://vitest.dev/)
-[![Oxlint](https://img.shields.io/badge/Oxlint-861492)](https://oxc.rs/docs/guide/usage/linter/quickstart.html#quickstart/)
+[![Oxlint](https://img.shields.io/badge/Oxlint-861492?logo=oxc&logoColor=25FFF9)](https://oxc.rs/docs/guide/usage/linter/quickstart.html#quickstart/)
 
 <!-- Repo -->
 [![Repo](https://img.shields.io/badge/GitHub-react--vite--first--practice-2260B0?logo=github)](https://github.com/johnny60904/react-vite-first-practice)
